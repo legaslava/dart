@@ -10,7 +10,7 @@
 
 ## Встановлення проєкту
 ```bash
-git clone https://github.com/<username>/dart-basics-novitskyi.git
+git clone https://github.com/legaslava/dart.git
 cd dart
 dart pub get
 ```
