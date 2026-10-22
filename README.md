@@ -11,7 +11,7 @@
 ## Встановлення проєкту
 ```bash
 git clone https://github.com/<username>/dart-basics-novitskyi.git
-cd dart-basics-novitskyi
+cd dart
 dart pub get
 ```
 
