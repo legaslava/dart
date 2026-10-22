@@ -1,4 +1,4 @@
-# dart-basics-novitskyi
+# dart
 
 Практична робота з основ Dart: змінні, функції, ООП (University Management System), колекції, async + файли.
 
